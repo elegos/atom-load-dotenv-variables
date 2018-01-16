@@ -1,0 +1,16 @@
+{
+  "name": "load-dotenv-variables",
+  "main": "./lib/load-dotenv-variables",
+  "version": "0.0.1",
+  "description": "Load dotenv variables from the project's root .env file",
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/elegos/atom-load-dotenv-variables",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "node-env-file": "^0.1.8"
+  }
+}
