@@ -1,7 +1,7 @@
 {
   "name": "load-dotenv-variables",
   "main": "./lib/load-dotenv-variables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load dotenv variables from the project's root .env file",
   "keywords": [],
   "activationCommands": {},
